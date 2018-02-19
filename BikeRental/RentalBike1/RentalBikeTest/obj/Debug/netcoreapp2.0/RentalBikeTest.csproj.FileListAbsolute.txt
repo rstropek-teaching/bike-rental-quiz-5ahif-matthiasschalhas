@@ -1,0 +1,16 @@
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\obj\Debug\netcoreapp2.0\RentalBikeTest.csprojResolveAssemblyReference.cache
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\obj\Debug\netcoreapp2.0\RentalBikeTest.csproj.CoreCompileInputs.cache
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\obj\Debug\netcoreapp2.0\RentalBikeTest.AssemblyInfoInputs.cache
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\obj\Debug\netcoreapp2.0\RentalBikeTest.AssemblyInfo.cs
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBikeTest.deps.json
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBikeTest.runtimeconfig.json
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBikeTest.runtimeconfig.dev.json
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBikeTest.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBikeTest.pdb
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBike1.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\bin\Debug\netcoreapp2.0\RentalBike1.pdb
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\obj\Debug\netcoreapp2.0\RentalBikeTest.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBikeTest\obj\Debug\netcoreapp2.0\RentalBikeTest.pdb

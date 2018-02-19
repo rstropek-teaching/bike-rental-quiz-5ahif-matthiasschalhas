@@ -1,0 +1,11 @@
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\obj\Debug\netcoreapp2.0\RentalBike1.csproj.CoreCompileInputs.cache
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\obj\Debug\netcoreapp2.0\RentalBike1.AssemblyInfoInputs.cache
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\obj\Debug\netcoreapp2.0\RentalBike1.AssemblyInfo.cs
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\obj\Debug\netcoreapp2.0\RentalBike1.csprojResolveAssemblyReference.cache
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\bin\Debug\netcoreapp2.0\RentalBike1.deps.json
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\bin\Debug\netcoreapp2.0\RentalBike1.runtimeconfig.json
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\bin\Debug\netcoreapp2.0\RentalBike1.runtimeconfig.dev.json
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\bin\Debug\netcoreapp2.0\RentalBike1.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\bin\Debug\netcoreapp2.0\RentalBike1.pdb
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\obj\Debug\netcoreapp2.0\RentalBike1.dll
+C:\Users\schal\source\repos\RentalBike1\RentalBike1\obj\Debug\netcoreapp2.0\RentalBike1.pdb
